@@ -1,4 +1,27 @@
 # Origin Dollar
+The flashloan attacks happened here:
+
+https://github.com/jeffchen006/origin-dollar/blob/3ec7678376921b736fe848bb02cde7b1d5ec12ae/contracts/contracts/vault/VaultCore.sol#L37-L78
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 OUSD is a new kind of stablecoin that passively accrues yield while you are holding it.
 
